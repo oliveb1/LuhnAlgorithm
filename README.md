@@ -4,7 +4,7 @@ Checks if a group of numbers will pass the Luhn Algorithm.
     
 
  ------------------------------------------
-|Luhn Algorithm by Brian Oliver, 07/15/19  |
+|Luhn Algorithm by Brian O., 07/15/19  |
  ------------------------------------------
 The Luhn Algorithm is commonly used to verify credit card numbers, IMEI numbers, etc...
 Luhn makes it possible to check numbers (credit card, SIRET, etc.) via a control key (called checksum, it is a number
